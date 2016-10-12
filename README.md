@@ -1,4 +1,3 @@
-# sf
 def encrypt_caesar(plaintext):
     ciphertext = ""
     for symbol in plaintext:
